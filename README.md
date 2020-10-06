@@ -3,7 +3,7 @@ Linux version of [Fandom-image-downloader](https://github.com/TheGhostOfInky/Fan
 A pair of python scripts that creates a bash script that will download all the images in bullet lists in original uncompressed state from a fandom webpage
 # Usage
 ## Preparation:
-* Install the latest version of python 3
+* Install the latest version of python 3 and wget
 * Download the webpage you want to extract the files from and place it inside the folder you unzipped the scripts to
 ## Use
 * Launch a terminal prompt in the folder you have the scripts at

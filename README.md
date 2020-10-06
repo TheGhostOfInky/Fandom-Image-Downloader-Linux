@@ -1,5 +1,5 @@
 # Fandom-Image-Downloader-Linux
-Linux version of [Fandom-image-downloader](https://github.com/TheGhostOfInky/Fandom-image-downloader)
+Linux version of [Fandom-image-downloader](https://github.com/TheGhostOfInky/Fandom-image-downloader)<br>
 A pair of python scripts that creates a bash script that will download all the images in bullet lists in original uncompressed state from a fandom webpage
 # Usage
 ## Preparation:
